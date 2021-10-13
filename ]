@@ -1,0 +1,61 @@
+[33mcommit f2b8365cd1e834df3329fec1782477dd413f0e3e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: bbd0da5 547bb94
+Author: Tal <talshalmon@gmail.com>
+Date:   Tue Oct 12 12:40:24 2021 +0300
+
+    commit4
+
+[33mcommit bbd0da50892fd3dd06419c3fdca886ca508e74cd[m
+Author: TalShalmon <talshalmon@gmail.com>
+Date:   Tue Oct 12 12:37:55 2021 +0300
+
+    commit3
+
+[33mcommit 547bb946e74412a7750401fd173b49636f42be9f[m
+Author: TalShalmon <talshalmon@gmail.com>
+Date:   Tue Oct 12 12:37:41 2021 +0300
+
+    master2
+
+[33mcommit 099af9f722a53f055c747f7f8327a7dd787e0067[m
+Author: TalShalmon <talshalmon@gmail.com>
+Date:   Tue Oct 12 12:36:22 2021 +0300
+
+    master
+
+[33mcommit 08bfd662f1303b15987a2b5a9d6ff59d81f4d092[m
+Author: TalShalmon <talshalmon@gmail.com>
+Date:   Tue Oct 12 12:27:20 2021 +0300
+
+    commit1
+
+[33mcommit 069c1c0268181cbf9932c93e1bad4047d385dccd[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 749803f 720d1ce
+Author: Tal <talshalmon@gmail.com>
+Date:   Mon Oct 11 19:15:41 2021 +0300
+
+    Merge branch 'master' of https://github.com/TalShalmon/Source-Control
+
+[33mcommit 749803faa8ae2abfeb369520b4d9d9149d8000d9[m
+Author: Tal <talshalmon@gmail.com>
+Date:   Mon Oct 11 19:10:03 2021 +0300
+
+    commit4
+
+[33mcommit 720d1ce4e31227498a429fc0e4c9de2a0d89e06b[m
+Author: Tal <talshalmon@gmail.com>
+Date:   Mon Oct 11 19:09:30 2021 +0300
+
+    commit3
+
+[33mcommit 05914e9332e7605bc3186174d96f39c112c784ff[m
+Author: TalShalmon <talshalmon@gmail.com>
+Date:   Mon Oct 11 18:59:48 2021 +0300
+
+    commit2
+
+[33mcommit 75f5bea2670a072504ad90345731d6003dd71adb[m
+Author: Tal <talshalmon@yahoo.com>
+Date:   Mon Oct 11 18:33:36 2021 +0300
+
+    commit1
